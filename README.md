@@ -1,5 +1,6 @@
                                             📊 Data Analytics Application
-This is an interactive and user-friendly Data Analytics Web Application built using Streamlit, designed for fast and intuitive data exploration, visualization, and aggregation without writing a single line of code.
+This is an interactive and user-friendly Data Analytics Web Application built using Streamlit, designed for fast and intuitive data exploration, visualization, and aggregation without writing a single line of code.\
+[Click here to launch the live app 🚀](https://dataanalytics-application.streamlit.app/)
 
                                                      🌟 Features
 
