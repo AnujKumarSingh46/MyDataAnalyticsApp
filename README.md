@@ -25,7 +25,7 @@ Group data by selected columns.\
 Apply aggregation functions like sum, mean, count, min, max.\
 Visual representation of grouped data.
 
-                                             Technologies and Libraries Used  
+                                              🛠️Technologies and Libraries Used  
 Streamlit: App framework for web-based analytics.\
 Pandas: Data manipulation and analysis.\
 Plotly Express: Interactive visualizations within Streamlit apps.
